@@ -3,11 +3,11 @@ from csv import *
 header = ['SID','SNAME','CITY','CONTACT']
 
 file_record=[
-    [1,'Meet','Surat',1234567890],
-    [2,'Om','Bardoli',1213141516],
-    [3,'Sai','Vyara',8989890000],
-    [4,'Ram','Surat',1234500001],
-    [5,'Harsh','Surat',7227848152]
+    [1,'Mitul','bardoli',1234567890],
+    [2,'jay','surat',1213141516],
+    [3,'om','navsari',8989890000],
+    [4,'parth','Surat',1234500001],
+    [5,'dhruv','Surat',7227848152]
     ]
 
 main_list=[]
